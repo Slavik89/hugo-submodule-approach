@@ -1,4 +1,4 @@
-baseURL: https://Slavik89/github.io/
+baseURL: /
 languageCode: en-us
 title: Hugo submodule approach
 theme: hugo-theme-techdoc
